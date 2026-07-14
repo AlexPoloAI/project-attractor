@@ -1,4 +1,3 @@
-# project-attractor
 ITAI1378
 # Project Attractor
 Team member: Aleksei Polozov
